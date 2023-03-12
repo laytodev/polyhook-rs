@@ -1,0 +1,3 @@
+[submodule "polyhook-sys/polyhook"]
+	path = polyhook-sys/polyhook
+	url = https://github.com/stevemk14ebr/PolyHook_2_0
